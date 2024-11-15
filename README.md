@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">Eu sou Fernanda<br><br>- 🔭 Atualmente não trabalho. Busco emprego ou estágio.<br>- 📚 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Full Stack<br>- ⚡ No meu tempo livre gosto de assistir filmes, séries, passear e amo viajar!</p>
+<p align="left">Eu sou Fernanda<br><br>- 📚 Estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas e Full Stack<br>- 🔭 Atualmente não trabalho. Busco emprego ou estágio.<br>-  ⚡ No meu tempo livre gosto de assistir filmes, séries, passear e amo viajar!</p>
 
 
 ###
